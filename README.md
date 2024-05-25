@@ -2,6 +2,7 @@
 This University Assingment consisted of two sections where in the first section we were made to analyse the customers’ behaviour and their
 preferences obtained through the airline holiday booking system using Python to identify the factors affecting customer choices, evaluating the influence of holiday booking time on customer behaviour, predict the likelihood of a successful holiday booking based on customer
 characteristics and Investigate the popularity of various routes and flight schedules.
+
 In section 2, as a Data Analyst for the R&D department of the "Sleeping Clinic" company, I successfully analyzed the health records of registered users. Using the "Health and Lifestyle" dataset containing anonymized data, I performed the following tasks using Tableau:
 
 Charting Professions with Abnormal Blood Pressure:
